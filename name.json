@@ -1,4 +1,5 @@
 [
   {"id":1,"name":"Pink","date":"2024-03-01"},
-  {"id":2,"name":"Black","date":"2024-03-02"}
+  {"id":2,"name":"Black","date":"2024-03-02"},
+  {"id":2,"name":"Brown","date":"2024-03-03"}
 ]
